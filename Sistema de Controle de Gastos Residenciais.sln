@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Controle de Gastos Residenciais", "Sistema de Controle de Gastos Residenciais\Sistema de Controle de Gastos Residenciais.csproj", "{45D2D686-1B3A-4F57-B3E5-F1B61587683D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "sistemadecontroledegastosresidenciais.frontend", "SistemaDeControleDeGastosResidenciais.Frontend\sistemadecontroledegastosresidenciais.frontend.esproj", "{909FE92D-B738-0FBE-E4B7-867EBBD31095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D2D686-1B3A-4F57-B3E5-F1B61587683D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D2D686-1B3A-4F57-B3E5-F1B61587683D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D2D686-1B3A-4F57-B3E5-F1B61587683D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D2D686-1B3A-4F57-B3E5-F1B61587683D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909FE92D-B738-0FBE-E4B7-867EBBD31095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909FE92D-B738-0FBE-E4B7-867EBBD31095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909FE92D-B738-0FBE-E4B7-867EBBD31095}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{909FE92D-B738-0FBE-E4B7-867EBBD31095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909FE92D-B738-0FBE-E4B7-867EBBD31095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909FE92D-B738-0FBE-E4B7-867EBBD31095}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B76C9CF-EE89-4EC5-85C1-52EF0AFD7D39}
+	EndGlobalSection
+EndGlobal
